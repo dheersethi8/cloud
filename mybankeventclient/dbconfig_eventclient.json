@@ -1,0 +1,8 @@
+{
+		"softwarefolder":"E:\\_JAMES\\Documents\\cloudcomputing-sem3\\practicals\\soa\\",
+		"websitefolder":"E:\\_JAMES\\Documents\\cloudcomputing-sem3\\practicals\\soa\\mybankwebsite\\",
+		"databasename":"dbAccount",
+		"databaseusername":"root",
+		"databasepassword":"dsouza"	,
+		"databasetestquery":"SELECT CONCAT(  '[',  GROUP_CONCAT(JSON_OBJECT('_id', _id)), ']') as jsonresult from tAccount;"
+}
